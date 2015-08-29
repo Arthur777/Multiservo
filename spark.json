@@ -1,0 +1,7 @@
+{
+  "name": "Photon-Multiservo.io",
+  "author": "Arthur777",
+  "license": "GNU v2",
+  "version": "0.0.1",
+  "description": "Адаптация Amperka Multiservo Shield и Spark Photon"
+}
